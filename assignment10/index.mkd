@@ -1,5 +1,0 @@
----
-layout: redirect
-redirect_url: https://github.com/19cah/mdc/blob/master/cpp/Assignment%2010/assignment10.cpp
----
-
