@@ -1,5 +1,5 @@
-<p align="center">
-  <a href="https://github.com/mdcblue">
+<p align="right">
+  <a href="http://go.mdc.blue">
         <img src="https://img.shields.io/badge/MDC-Blue-0069ab.svg"
             alt="MDC Blue"></a>
 <!-- 
