@@ -1,4 +1,3 @@
-<h1 align="center"> Miami Dade College </h1>
 <p align="center">
   <a href="https://github.com/mdcblue">
         <img src="https://img.shields.io/badge/MDC-Blue-0069ab.svg"
