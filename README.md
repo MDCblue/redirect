@@ -12,7 +12,7 @@
 <h2 align="center"> How to make a URL redirect</h2>
 
 
--  Go to **_redirects**
+-  Go to **[_redirects](https://github.com/MDCblue/redirect/tree/master/_redirects)**
 -  Create an **.html** file (preferably with the name of the link)
     - ex: *github.html* (where *github* is the link that you want to make)
 - Inside the file you need to copy the code below and paste it on you file, change it with you content.
