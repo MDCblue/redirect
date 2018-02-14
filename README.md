@@ -27,4 +27,4 @@ destination: http://github.com/mdcblue  <!-- The link where you want to redirect
 
 ### Example:
 
-[mdc.blue/github](https://mdc.blue/github) will redirect you to [github.com/MDCblue](https://github.com/MDCblue)
+[go.mdc.blue/github](http://go.mdc.blue/github) will redirect you to [github.com/MDCblue](https://github.com/MDCblue)
