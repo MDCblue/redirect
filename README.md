@@ -23,3 +23,8 @@ permalink: /github <!-- Link wil be avilable at go.mdc.blue/github -->
 destination: http://github.com/mdcblue  <!-- The link where you want to redirect -->
 ---
 ```
+
+
+### Example:
+
+[mdc.blue/github](https://mdc.blue/github) will redirect you to [github.com/MDCblue](https://github.com/MDCblue)
