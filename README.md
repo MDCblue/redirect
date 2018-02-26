@@ -28,3 +28,5 @@ destination: http://github.com/mdcblue  <!-- The link where you want to redirect
 ### Example:
 
 [go.mdc.blue/github](http://go.mdc.blue/github) will redirect you to [github.com/MDCblue](https://github.com/MDCblue)
+
+**NOTE:** when you are done, please include you path on the [path list](https://github.com/MDCblue/redirect/blob/master/list/README.md)
