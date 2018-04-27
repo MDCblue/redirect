@@ -11,3 +11,5 @@
 - algorithms-part1
 - algorithms-part2
 - algorithmic-toolbox
+- win-competitions
+- linux-intro
