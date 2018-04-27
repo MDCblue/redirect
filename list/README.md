@@ -8,3 +8,5 @@
 - join
 - shorturl
 - event-repo
+- algorithms-part1
+- algorithms-part2
