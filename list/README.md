@@ -10,3 +10,4 @@
 - event-repo
 - algorithms-part1
 - algorithms-part2
+- algorithmic-toolbox
