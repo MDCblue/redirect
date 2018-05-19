@@ -1,6 +1,6 @@
 <p align="center">
   <a href="http://go.mdc.blue">
-        <img src="https://img.shields.io/badge/MDC-Blue-0069ab.svg"
+        <img src="https://mdc.blue/badge.svg"
             alt="MDC Blue"></a>
 <!-- 
   Author: Carlos Abraham 
